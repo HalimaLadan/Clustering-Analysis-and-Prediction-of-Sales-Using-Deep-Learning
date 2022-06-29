@@ -20,14 +20,16 @@ BrickStone is the percentage of a house that is made of brick or stone.
 The house flipping company would like you to segment the homes sold in the database and create an analytical report on the clusters describing each cluster and describing how they are different. The data has had some cleaning work to it, but you should verify that it is ready for clustering.
 
 ### Actions:
-All unneccssary columns were removed. All duplicates were droped and all inconsistency issues were addressed. Kmeans clustering Algorithm was used to cluster data four groups.
+>- All unneccssary columns were removed. 
+>- All duplicates were droped 
+>- Inconsistency issues were addressed.
+>- Kmeans clustering Algorithm was used to cluster data five groups, based on silhoutte scores.
 
 ![housing clusters](https://user-images.githubusercontent.com/95732821/176503337-cf9c25b2-6ae4-4108-aefd-5182d344c1e8.png)
 
 
 
 ### Results:
-
 
 **Cluster 0**
 
@@ -171,7 +173,8 @@ The graph above indicates that houses in cluster 4 are the most expensive, with 
 # Phase 2: Neural Network Regression
 
 
-
+![plots](https://user-images.githubusercontent.com/95732821/176514758-8461aae6-46cd-4fb6-bed0-8a79041db116.png)
+To be continued.....
 
 
 
